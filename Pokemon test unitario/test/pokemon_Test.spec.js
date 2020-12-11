@@ -24,7 +24,7 @@ describe("pokemon lib", () => {
     describe("soma staminas", () => {
         it("soma 1 com 4", () => {
             //verifica se o numero 1+4=5
-            expect(Pokemon.staminaSum(1, 4)).to.equal(5);
+            expect(Pokemon.staminaSum(1, 4)).to.equal(5);+
         });
         //verifica se o numero 5+8=14
         it("soma 5 com 8", () => {
