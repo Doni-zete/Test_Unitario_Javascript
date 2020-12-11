@@ -8,6 +8,7 @@
 
 * Cmd para navegar ate os comandos
 * JavaScript
+* vscode
 
 
 ![Instrução](https://github.com/Doni-zete/Test_Unitario_Javascript/blob/master/Pokemon%20test%20unitario/img/install%20mocha.png)
@@ -24,8 +25,4 @@
 
 :arrow_down: **Como baixar o projeto**
 
-
-Criar arquivo de test no diretorio ex:test.spec.js
-
-npm install mocha --global
 ##  `git clonehttps://github.com/Doni-zete/Test_Unitario_Javascript.git`
