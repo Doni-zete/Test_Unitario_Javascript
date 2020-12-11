@@ -25,5 +25,7 @@
 
 
 :arrow_down: **Como baixar o projeto**
+* OBS: É necessário ter o git instalado em sua máquina
+* Executar o Seguinte comando no seu **Terminal**  ou no **CMD**:
 
 ##  `git clone https://github.com/Doni-zete/Test_Unitario_Javascript.git`
