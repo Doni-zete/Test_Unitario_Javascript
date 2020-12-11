@@ -1,5 +1,8 @@
-function pokemonBatalha(){
-
-    return "Squirtle";
+function pokemonBatalha(pokemon1,pokemon2) {
+if(pokemon1 ==="Squirtle"){
+    return "Squirtle"
 }
-module.exports.pokemonBatalha =pokemonBatalha;
+else
+    return "pikachu";
+}
+module.exports.pokemonBatalha = pokemonBatalha;
